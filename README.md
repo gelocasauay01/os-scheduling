@@ -1,10 +1,10 @@
-# OS Algorithms Analyzer
+# OS Scheduling Algorithms Analyzer
 
-Welcome to **OS Algorithms Analyzer**! This is a command line tool that computes the output of various Operating System algorithms and writes the results in a CSV file.
+Welcome to **OS Scheduling Algorithms Analyzer**! This is a command line tool that computes the output of various Operating System algorithms and writes the results in a CSV file.
 
 ## Features
 
-- Computes the output of various OS algorithms, both preemptive and non-preemptive.
+- Computes the output of various OS scheduling algorithms, both preemptive and non-preemptive.
 - Outputs include completion time, turn around time, waiting time, and response time.
 - Writes the results in a CSV file for easy analysis and comparison.
 
